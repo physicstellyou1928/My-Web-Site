@@ -7,10 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yun Gu"                  #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name  "Yun Gu"                   #"Your Name"
+description              : &description 
+  "Undergraduate researcher in quantum computing & AI. Publications, courses and blog posts." 
+  # **可以，但方式不是“直接加权关键词就排名更高”，而是通过 **“让搜索结果里那两行摘要更吸引人 → 
+  # 更多人点击 → 提升点击率 (CTR) → 搜索系统把页面判定为对用户更有用” 这种间接链路来帮助搜索。
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yun Gu"               #"Your Sidebar Name"
+  avatar           : "test_400x400.jpg"     
+  bio              : "Undergraduate @ UWaterloo · Quantum Computing · AI · Numerical Simulation"
+  location         : "Waterloo, Ontario, Canada /n Tianjin, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,2 +1,26 @@
 _site/
 
+.jekyll-cache/      # Jekyll 4+ 的缓存
+.jekyll-metadata    # 上次构建时产生的元数据
+.sass-cache/        # Sass 编译缓存
+.bundle/            # Bundler 装好的 gems
+
+# —— 前端工具 (如果你引入了 npm、yarn、pnpm) ——
+node_modules/
+dist/
+coverage/
+
+# —— 编辑器 / IDE ————————————————
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# —— 系统文件 ————————————————
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini
+
+# —— 日志 / 临时 ————————————————
+*.log
+tmp/
