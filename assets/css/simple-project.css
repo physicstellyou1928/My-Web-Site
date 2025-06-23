@@ -1,0 +1,49 @@
+/* 简单项目页面样式 */
+.simple-project-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.simple-project-container h1 {
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.content {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #4285F4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #3367D6;
+}
+
+.btn-primary {
+  background-color: #4285F4;
+}
+
+.result-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #e8f0fe;
+  border-left: 4px solid #4285F4;
+  display: none;
+}
