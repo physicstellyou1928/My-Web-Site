@@ -13,9 +13,9 @@ name                     : &name  "Yun Gu"                   #"Your Name"
 description              : &description "Undergraduate researcher in quantum computing & AI. Publications, courses and blog posts." 
   # **可以，但方式不是“直接加权关键词就排名更高”，而是通过 **“让搜索结果里那两行摘要更吸引人 → 
   # 更多人点击 → 提升点击率 (CTR) → 搜索系统把页面判定为对用户更有用” 这种间接链路来帮助搜索。
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://physicstellyou1928.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/My-Web-Site" # the subpath of your site, e.g. "/blog"
+repository               : "physicstellyou1928/My-Web-Site"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
