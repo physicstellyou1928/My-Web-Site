@@ -16,8 +16,8 @@ You can [download my resume in PDF format](https://drive.google.com/file/d/1901g
 <div style="display: flex; justify-content: left;">
   <iframe 
     src="https://drive.google.com/file/d/1901gRoQpbE0LpyE9XMk7xRCs9Gqfx-ds/preview" 
-    width="700px" 
-    height="880px" 
+    width="750px" 
+    height="900px" 
     style="border: 1px solid #eee; box-shadow: 0 2px 8px #ccc; background: #fafafa;"
     allow="autoplay">
   </iframe>
