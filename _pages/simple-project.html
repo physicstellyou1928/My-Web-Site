@@ -5,11 +5,33 @@ permalink: /simple-project/
 author_profile: true
 ---
 
+<!-- 语言切换按钮，放在内容顶部 -->
+<div class="lang-switcher">
+  <span class="lang-label">
+    <span class="lang-zh">语言：</span>
+    <span class="lang-en">Language:</span>
+  </span>
+  <button id="langToggleBtn" class="btn btn-secondary">English</button>
+</div>
+
 <div class="simple-project-container">
-  <h1>我的简单项目</h1>
+  <!-- 双语标题 -->
+  <h1>
+    <span class="lang-zh">我的简单项目</span>
+    <span class="lang-en">My Simple Project</span>
+  </h1>
   <div class="content">
-    <p>这是一个简单的静态页面示例。您可以在这里添加您的内容。</p>
-    <button id="demoButton" class="btn btn-primary">点击我</button>
+    <!-- 双语正文内容 -->
+    <p>
+      <span class="lang-zh">这是一个简单的静态页面示例。您可以在这里添加您的内容。</span>
+      <span class="lang-en">This is a simple static page example. You can add your content here.</span>
+    </p>
+    <!-- 双语按钮文本 -->
+    <button id="demoButton" class="btn btn-primary">
+      <span class="lang-zh">点击我</span>
+      <span class="lang-en">Click Me</span>
+    </button>
+    <!-- 结果显示区域 - 内容将由JavaScript动态生成 -->
     <div id="result" class="result-box"></div>
   </div>
 </div>
