@@ -135,5 +135,15 @@ I am Yun Gu (you can call me Chris), a fourth-year undergraduate student enrolle
 
 <small>
 
-## Selected Publications
 
+<!--
+别担心你一定会有的
+## Selected Publications
+-->
+
+
+## Recent Research Projects
+
+1.Srodinger-Heisenberg Quantum Variational Algorithm - with MindSpore-Quantum
+
+2.To be updated
