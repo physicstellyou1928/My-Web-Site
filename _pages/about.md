@@ -56,26 +56,84 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 -->
 
+<!--
 ## About Me
 
 I am an undergraduate researcher at the University of Waterloo, focusing on quantum computing and artificial intelligence. My research interests include [your specific interests].
 
-## Research Interests
+## Research Interests & Skills
 
 - Quantum Computing
 - Artificial Intelligence
 - Numerical Simulation
 - [Other interests]
 
+## Research Interests & Skills
+- **Quantum Computing** | Variational algorithms, error mitigation  
+- **Artificial Intelligence** | Foundation models, reinforcement learning  
+- **Numerical Simulation** | Finite-difference methods, HPC  
+*Tools:* Qiskit • PennyLane • PyTorch • CUDA
+
 ## Education
 
-- Bachelor's Degree, Major in Mathematical Physics, Minor in Computing & Combinatorics and Optimization, University of Waterloo, [2023-present]
-- Bachelor's Degree, Major in Applied Physics, Tianjin University, joint program with University of Waterloo [2021-present] 
+- BSc, Major in Mathematical Physics, Minor in Computing & Combinatorics and Optimization, University of Waterloo, [2023-present]
+- BSc, Major in Applied Physics, Tianjin University, joint program with University of Waterloo [2021-present] 
+
+
+## News & Updates
+
 
 ## Recent Projects
 
 [Brief description of your recent projects]
 
-## Publications
+## Selected Publications
 
 [List of your publications or link to publications page]
+
+-->
+
+## About Me
+
+I am Yun Gu (you can call me Chris), a fourth-year undergraduate student enrolled in the joint Applied Physics (Tianjin University) and Mathematical Physics (University of Waterloo) program, with a minor in Computer Science. **I enjoy statistical physics and quantum many-body problems, and also the interdisciplinary research between physics and computation in quantum computing.** Additionally, I am passionate about teaching and have enjoyed my tutoring experiences through the Turing program.
+
+## Research Directions
+
+* Quantum Computing
+* Quantum Algorithms
+* Many-Body Statistical Physics
+* Computational Simulation for Quantum Systems
+
+## Skills
+
+* **Programming Languages:** C/C++, Python, Matlab, Julia, Rust, Mathematica
+* **Software Tools:** Linux, PyTorch, TensorFlow, Qiskit, QuTiP, TensorNetwork, TeNPy, CUDA
+* **Hardware:** Raspberry Pi
+* **Documentation:** LaTeX, Markdown
+* **Certifications:** IBM Certified Associate Developer - Quantum Computation using Qiskit, MindSpore Quantum Rapid Course in Quantum Software Programming
+* **Languages:** English, Chinese
+
+## Current Research Interests
+
+* Variational Quantum Algorithms (VQA) / Quantum Simulation
+* Quantum Compiler Optimization (Formal Methods / AI for Gate Design)
+* Quantum Heat Engines / Quantum Thermodynamics
+* AI for Science (Especially for Quantum Systems) / Tensor Network Methods 
+
+
+
+## Education
+
+- BSc, Major in Mathematical Physics, Minor in Computing & Combinatorics and Optimization, University of Waterloo, [2023-present]
+- BSc, Major in Applied Physics, Tianjin University, joint program with University of Waterloo [2021-present] 
+
+
+## News & Updates
+<small>
+
+* [2025-06-15] Huawei MindSpore-Quantum open-source software development intern
+
+<small>
+
+## Selected Publications
+
